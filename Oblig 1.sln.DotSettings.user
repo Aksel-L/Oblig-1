@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=09cb2b49_002Ded19_002D4385_002D9c51_002D8fd8b3dba0cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::14B66B7D-2529-4032-A73D-003F20B07C3C::.NETCoreApp,Version=v3.1::FamilyAppTest.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A3EC08C3-8B5C-4DE9-A927-426098A1AFA7::.NETCoreApp,Version=v3.1::Oblig_1_UnitTest.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2270769c_002D7ead_002D4410_002D9ca4_002De4df9028ce61/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAllFields #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A3EC08C3-8B5C-4DE9-A927-426098A1AFA7::.NETCoreApp,Version=v3.1::Oblig_1_UnitTest.Tests.TestAllFields&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A3EC08C3-8B5C-4DE9-A927-426098A1AFA7::.NETCoreApp,Version=v3.1::Oblig_1_UnitTest.Tests.TestNoFields&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4dded5dc_002D206a_002D4fa5_002Daeb9_002D78319f1aea78/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A3EC08C3-8B5C-4DE9-A927-426098A1AFA7::.NETCoreApp,Version=v3.1::Oblig_1_UnitTest.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::14B66B7D-2529-4032-A73D-003F20B07C3C::.NETCoreApp,Version=v3.1::FamilyAppTest.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8429cf05_002D926e_002D4b66_002D963c_002D8c882cfa9193/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAllFields" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A3EC08C3-8B5C-4DE9-A927-426098A1AFA7::.NETCoreApp,Version=v3.1::Oblig_1_UnitTest.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>
